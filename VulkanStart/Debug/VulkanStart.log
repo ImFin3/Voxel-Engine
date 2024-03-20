@@ -1,0 +1,113 @@
+﻿LINK : warning LNK4098: Standardbibliothek "MSVCRT" steht in Konflikt mit anderen Bibliotheken; /NODEFAULTLIB:Bibliothek verwenden.
+main.obj : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "_vkEnumerateInstanceExtensionProperties@12" in Funktion "_main".
+glfw3.lib(win32_init.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__TranslateMessage@4" in Funktion "__glfwPlatformInit".
+glfw3.lib(win32_window.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__TranslateMessage@4".
+glfw3.lib(win32_init.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__DispatchMessageW@4" in Funktion "__glfwPlatformInit".
+glfw3.lib(win32_window.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__DispatchMessageW@4".
+glfw3.lib(win32_init.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__PeekMessageW@20" in Funktion "__glfwPlatformInit".
+glfw3.lib(win32_window.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__PeekMessageW@20".
+glfw3.lib(win32_init.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__RegisterDeviceNotificationW@12" in Funktion "__glfwPlatformInit".
+glfw3.lib(win32_init.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__UnregisterDeviceNotification@4" in Funktion "__glfwPlatformTerminate".
+glfw3.lib(win32_init.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__CreateWindowExW@48" in Funktion "__glfwPlatformInit".
+glfw3.lib(win32_window.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__CreateWindowExW@48".
+glfw3.lib(win32_init.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__DestroyWindow@4" in Funktion "__glfwPlatformTerminate".
+glfw3.lib(win32_window.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__DestroyWindow@4".
+glfw3.lib(win32_init.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__ShowWindow@8" in Funktion "__glfwPlatformInit".
+glfw3.lib(win32_window.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__ShowWindow@8".
+glfw3.lib(win32_init.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__ToUnicode@24" in Funktion "__glfwPlatformInit".
+glfw3.lib(win32_init.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__MapVirtualKeyW@8" in Funktion "__glfwPlatformInit".
+glfw3.lib(win32_window.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__MapVirtualKeyW@8".
+glfw3.lib(win32_init.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__SystemParametersInfoW@16" in Funktion "__glfwPlatformInit".
+glfw3.lib(win32_window.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__SystemParametersInfoW@16".
+glfw3.lib(win32_monitor.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__CreateDCW@16" in Funktion "__glfwPlatformGetGammaRamp".
+glfw3.lib(win32_monitor.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__DeleteDC@4" in Funktion "__glfwPlatformGetGammaRamp".
+glfw3.lib(win32_monitor.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__GetDeviceCaps@8" in Funktion "__glfwGetMonitorContentScaleWin32".
+glfw3.lib(win32_monitor.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__GetDeviceGammaRamp@8" in Funktion "__glfwPlatformGetGammaRamp".
+glfw3.lib(win32_monitor.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__SetDeviceGammaRamp@8" in Funktion "__glfwPlatformSetGammaRamp".
+glfw3.lib(win32_monitor.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__GetDC@4" in Funktion "__glfwGetMonitorContentScaleWin32".
+glfw3.lib(win32_window.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__GetDC@4".
+glfw3.lib(wgl_context.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__GetDC@4".
+glfw3.lib(win32_monitor.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__ReleaseDC@8" in Funktion "__glfwGetMonitorContentScaleWin32".
+glfw3.lib(win32_window.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__ReleaseDC@8".
+glfw3.lib(win32_monitor.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__ChangeDisplaySettingsExW@20" in Funktion "__glfwPlatformGetVideoModes".
+glfw3.lib(win32_monitor.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__EnumDisplaySettingsW@12" in Funktion "__glfwPlatformGetVideoMode".
+glfw3.lib(win32_monitor.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__EnumDisplaySettingsExW@16" in Funktion "__glfwPlatformGetMonitorPos".
+glfw3.lib(win32_monitor.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__EnumDisplayDevicesW@16" in Funktion "__glfwPollMonitorsWin32".
+glfw3.lib(win32_monitor.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__GetMonitorInfoW@8" in Funktion "__glfwPlatformGetMonitorWorkarea".
+glfw3.lib(win32_window.obj) : error LNK2001: Nicht aufgelöstes externes Symbol "__imp__GetMonitorInfoW@8".
+glfw3.lib(win32_monitor.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__EnumDisplayMonitors@16" in Funktion "__glfwPollMonitorsWin32".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__CreateBitmap@20" in Funktion "_createIcon".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__CreateRectRgn@16" in Funktion "_updateFramebufferTransparency".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__DeleteObject@4" in Funktion "_createIcon".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__CreateDIBSection@24" in Funktion "_createIcon".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__TrackMouseEvent@4" in Funktion "_windowProc@16".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__GetMessageTime@0" in Funktion "_windowProc@16".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__SendMessageW@16" in Funktion "__glfwPlatformSetWindowIcon".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__PostMessageW@16" in Funktion "__glfwPlatformPostEmptyEvent".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__WaitMessage@0" in Funktion "__glfwPlatformWaitEvents".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__DefWindowProcW@16" in Funktion "_windowProc@16".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__UnregisterClassW@8" in Funktion "__glfwUnregisterWindowClassWin32".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__RegisterClassExW@4" in Funktion "__glfwRegisterWindowClassWin32".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__GetLayeredWindowAttributes@16" in Funktion "__glfwPlatformGetWindowOpacity".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__SetLayeredWindowAttributes@16" in Funktion "__glfwPlatformSetWindowOpacity".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__FlashWindow@8" in Funktion "__glfwPlatformRequestWindowAttention".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__MoveWindow@24" in Funktion "__glfwPlatformSetWindowAspectRatio".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__SetWindowPos@28" in Funktion "__glfwPlatformMaximizeWindow".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__GetWindowPlacement@8" in Funktion "_createNativeWindow".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__SetWindowPlacement@8" in Funktion "_createNativeWindow".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__IsWindowVisible@4" in Funktion "__glfwPlatformMaximizeWindow".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__IsIconic@4" in Funktion "__glfwPlatformWindowIconified".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__BringWindowToTop@4" in Funktion "__glfwPlatformCreateWindow".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__IsZoomed@4" in Funktion "__glfwPlatformWindowMaximized".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__OpenClipboard@4" in Funktion "__glfwPlatformGetClipboardString".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__CloseClipboard@0" in Funktion "__glfwPlatformGetClipboardString".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__SetClipboardData@8" in Funktion "__glfwPlatformSetClipboardString".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__GetClipboardData@4" in Funktion "__glfwPlatformGetClipboardString".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__EmptyClipboard@0" in Funktion "__glfwPlatformSetClipboardString".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__SetFocus@4" in Funktion "__glfwPlatformCreateWindow".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__GetActiveWindow@0" in Funktion "__glfwPlatformPollEvents".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__GetKeyState@4" in Funktion "__glfwPlatformPollEvents".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__SetCapture@4" in Funktion "_windowProc@16".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__ReleaseCapture@0" in Funktion "_windowProc@16".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__MsgWaitForMultipleObjects@20" in Funktion "__glfwPlatformWaitEventsTimeout".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__GetSystemMetrics@4" in Funktion "__glfwPlatformMaximizeWindow".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__SetForegroundWindow@4" in Funktion "__glfwPlatformCreateWindow".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__SetPropW@12" in Funktion "_createNativeWindow".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__GetPropW@8" in Funktion "__glfwPlatformPollEvents".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__RemovePropW@8" in Funktion "__glfwPlatformDestroyWindow".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__SetWindowTextW@8" in Funktion "__glfwPlatformSetWindowTitle".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__GetClientRect@8" in Funktion "__glfwPlatformGetFramebufferSize".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__GetWindowRect@8" in Funktion "__glfwPlatformSetWindowAspectRatio".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__AdjustWindowRectEx@16" in Funktion "__glfwPlatformGetWindowFrameSize".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__SetCursorPos@8" in Funktion "__glfwPlatformPollEvents".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__SetCursor@4" in Funktion "__glfwPlatformSetCursor".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__GetCursorPos@4" in Funktion "__glfwPlatformGetCursorPos".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__ClientToScreen@8" in Funktion "__glfwPlatformGetWindowPos".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__ScreenToClient@8" in Funktion "__glfwPlatformGetCursorPos".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__WindowFromPoint@8" in Funktion "_cursorInContentArea".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__ClipCursor@4" in Funktion "_disableCursor".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__SetRect@20" in Funktion "__glfwPlatformGetWindowFrameSize".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__OffsetRect@12" in Funktion "__glfwPlatformMaximizeWindow".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__PtInRect@12" in Funktion "_cursorInContentArea".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__GetWindowLongW@8" in Funktion "__glfwPlatformGetWindowOpacity".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__SetWindowLongW@12" in Funktion "__glfwPlatformMaximizeWindow".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__GetClassLongW@8" in Funktion "__glfwPlatformSetWindowIcon".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__LoadCursorW@8" in Funktion "__glfwPlatformSetCursor".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__DestroyIcon@4" in Funktion "__glfwPlatformDestroyCursor".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__LoadImageW@24" in Funktion "__glfwPlatformCreateStandardCursor".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__CreateIconIndirect@4" in Funktion "_createIcon".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__MonitorFromWindow@8" in Funktion "__glfwPlatformGetWindowContentScale".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__GetRawInputData@20" in Funktion "_windowProc@16".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__RegisterRawInputDevices@12" in Funktion "__glfwPlatformSetRawMouseMotion".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__DragQueryFileW@16" in Funktion "_windowProc@16".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__DragQueryPoint@8" in Funktion "_windowProc@16".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__DragFinish@4" in Funktion "_windowProc@16".
+glfw3.lib(win32_window.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__DragAcceptFiles@8" in Funktion "_createNativeWindow".
+glfw3.lib(win32_joystick.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__GetRawInputDeviceInfoA@16" in Funktion "_deviceCallback@8".
+glfw3.lib(win32_joystick.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__GetRawInputDeviceList@12" in Funktion "_deviceCallback@8".
+glfw3.lib(wgl_context.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__ChoosePixelFormat@8" in Funktion "__glfwInitWGL".
+glfw3.lib(wgl_context.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__DescribePixelFormat@16" in Funktion "__glfwCreateContextWGL".
+glfw3.lib(wgl_context.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__SetPixelFormat@12" in Funktion "__glfwCreateContextWGL".
+glfw3.lib(wgl_context.obj) : error LNK2019: Verweis auf nicht aufgelöstes externes Symbol "__imp__SwapBuffers@4" in Funktion "_swapBuffersWGL".
+C:\VulkanSDK\1.3.268.0\Lib\vulkan-1.lib : warning LNK4272: Bibliothekcomputertyp "x64" steht in Konflikt mit dem Zielcomputertyp "x86"
+D:\Studium\Semester 3\Bachelor\VulkanStart\Debug\VulkanStart.exe : fatal error LNK1120: 98 nicht aufgelöste Externe

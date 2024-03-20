@@ -1,0 +1,9 @@
+﻿  HelloTriangleApplication.cpp
+  main.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,1): warning C4005: "APIENTRY": Makro-Neudefinition
+D:\Studium\Semester 3\Bachelor\VulkanStart\Libs\x64\include\glad\glad.h(32,1): message : Siehe vorherige Definition von "APIENTRY"
+  Code wird generiert.
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+  All 1339 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Codegenerierung ist abgeschlossen.
+  VulkanStart.vcxproj -> D:\Studium\Semester 3\Bachelor\VulkanStart\x64\Release\VulkanStart.exe
